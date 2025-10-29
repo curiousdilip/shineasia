@@ -5,7 +5,7 @@ export default function Package() {
         <div className="row justify-content-center">
           <div className="col-md-10 col-lg-8">
             <div className="section-head text-center">
-              <h2>Dubai Holiday Packages</h2>
+              <h2>Dubai Holiday Package</h2>
               <p>
                 Explore the magic of Dubai with our carefully curated holiday
                 packages
@@ -28,7 +28,7 @@ export default function Package() {
                   srcSet="https://aapkatourism.com/wp-content/uploads/2025/09/dubai4-300x225.jpg 300w, https://aapkatourism.com/wp-content/uploads/2025/09/dubai4-1024x768.jpg 1024w, https://aapkatourism.com/wp-content/uploads/2025/09/dubai4-768x576.jpg 768w, https://aapkatourism.com/wp-content/uploads/2025/09/dubai4.jpg 1280w"
                   sizes="(max-width: 300px) 100vw, 300px"
                 />
-                <div className="price">AED 1500 </div>
+                <div className="price">Rs. 59999 </div>
               </figure>
               <div className="card-body">
                 <h4>4 Nights 5 Days DUBAI Dream Tour</h4>
