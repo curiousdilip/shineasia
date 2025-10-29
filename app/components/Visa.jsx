@@ -65,7 +65,7 @@ export default function Visa() {
           <div className="col-md-6">
             <figure>
               <img
-                src="./dubai.jpg"
+                src="./trusted-partner.jpg"
                 alt="#"
                 className="rounded w-100 h-100 object-fit-cover"
               />
