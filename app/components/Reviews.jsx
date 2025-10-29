@@ -25,14 +25,30 @@ export default function Reviews() {
                   <i className="bi bi-star-fill text-primary"></i>
                 </div>
                 <p className="fst-italic">
-                  "Our Dubai trip with Shine Asia Travel was absolutely
-                  fantastic! Every detail was perfectly planned, from the
-                  airport pickup to the desert safari. The team was professional
-                  and the experiences were unforgettable."
+                  "Had an amazing experience with shine Asia global  100%satisfied Dessert safari and cruise Worship service was awesome."
                 </p>
                 <hr />
-                <h5 className="mb-0">Priya & Rahul Sharma</h5>
-                <small className="text-muted">Mumbai</small>
+                <h5 className="mb-0">Daniel Williams</h5>
+                <small className="text-muted">Canada</small>
+              </div>
+            </div>
+          </div>
+            <div className="col-sm-6 col-md-3">
+            <div className="card border h-100">
+              <div className="card-body">
+                <div className="rating mb-2">
+                  <i className="bi bi-star-fill text-primary"></i>
+                  <i className="bi bi-star-fill text-primary"></i>
+                  <i className="bi bi-star-fill text-primary"></i>
+                  <i className="bi bi-star-fill text-primary"></i>
+                  <i className="bi bi-star-fill text-primary"></i>
+                </div>
+                <p className="fst-italic">
+                  "Had an incredible experience with Shine Asia Global! The Dessert Safari and Cruise were amazing, and the Worship Service was truly uplifting. 100% satisfied!"
+                </p>
+                <hr />
+                <h5 className="mb-0">Jessica Carter</h5>
+                <small className="text-muted">USA</small>
               </div>
             </div>
           </div>
@@ -48,15 +64,11 @@ export default function Reviews() {
                   <i className="bi bi-star-fill text-primary"></i>
                 </div>
                 <p className="fst-italic">
-                  "Our honeymoon in Dubai was an unforgettable experience! The
-                  stunning skyline, luxurious hotel stay, exciting desert
-                  safari, and magical Dhow Cruise dinner made every moment truly
-                  special. Thank you Shine Asia Travel for creating such
-                  beautiful memories for us!"
+                  "I had a very good time with shine global network at Dubai tour and Conference . I have to thank to all the team bacause it was an amazing experience.  tour was awesome experience with different countries and  wonderful life changing experience with God's  people at  conference ."
                 </p>
                 <hr />
-                <h5 className="mb-0">Anjali Gupta</h5>
-                <small className="text-muted">Delhi</small>
+                <h5 className="mb-0">Apostle Barry Maracle</h5>
+                <small className="text-muted">Canada</small>
               </div>
             </div>
           </div>
@@ -71,38 +83,15 @@ export default function Reviews() {
                   <i className="bi bi-star-fill text-primary"></i>
                 </div>
                 <p className="fst-italic">
-                  "I traveled solo to Dubai and felt completely safe and
-                  well-taken care of. The itinerary was perfectly balanced with
-                  adventure and relaxation. Highly recommend Shine Asia Travel!"
+                  "This tour was very well run. It was our first time to Dubai and we felt very safe and taken care of. Thank you so much for a great tour to the Dubai with blessed conference."
                 </p>
                 <hr />
-                <h5 className="mb-0">Vikram & Kavitha</h5>
-                <small className="text-muted">MBangalore</small>
+                <h5 className="mb-0">Jolene Marek</h5>
+                <small className="text-muted">USA</small>
               </div>
             </div>
           </div>
-          <div className="col-sm-6 col-md-3">
-            <div className="card border h-100">
-              <div className="card-body">
-                <div className="rating mb-2">
-                  <i className="bi bi-star-fill text-primary"></i>
-                  <i className="bi bi-star-fill text-primary"></i>
-                  <i className="bi bi-star-fill text-primary"></i>
-                  <i className="bi bi-star-fill text-primary"></i>
-                  <i className="bi bi-star-fill text-primary"></i>
-                </div>
-                <p className="fst-italic">
-                  "Traveling with kids can be challenging, but Shine Asia Travel
-                  made it seamless. The Dubai package was family-friendly with
-                  activities for everyone. Our children still talk about the
-                  desert safari!"
-                </p>
-                <hr />
-                <h5 className="mb-0">Rajesh Family</h5>
-                <small className="text-muted">Chennai</small>
-              </div>
-            </div>
-          </div>
+        
         </div>
       </div>
     </section>

@@ -24,24 +24,24 @@ export default function Header() {
           <div className="row align-items-center">
             <div className="col-5 col-sm-5 col-md-6">
               <Link href="" className="site-logo">
-                <h1>Shine Asia Travel</h1>
-                {/* <img src="./img/logo.png" alt="logo" /> */}
+                {/* <h1>Shine Asia Travel</h1> */}
+                <img src="/favicon.png" alt="logo" style={{width:"80px"}}/>
               </Link>
             </div>
             <div className=" col-7 col-sm-5 col-md-6 text-end">
               <div className="top-contact">
-                <Link href="#" target="_blank">
+                <Link href="https://www.facebook.com/profile.php?id=100070884819767" target="_blank">
                   <i className="bi bi-facebook me-2"></i>
                 </Link>
-                <Link href="#" target="_blank">
+                <Link href="https://www.instagram.com/shineasiaglobal" target="_blank">
                   <i className="bi bi-instagram me-2"></i>
                 </Link>
-                <Link href="#" target="_blank">
+                <Link href="https://www.youtube.com/@shineasiaglobal" target="_blank">
                   <i className="bi bi-youtube me-2"></i>
                 </Link>
 
-                <Link href="tel:+971564387701">
-                  <i className="bi bi-phone me-1"></i>+971564387701
+                <Link href="tel:+917840054757">
+                  <i className="bi bi-phone me-1"></i>+917840054757
                 </Link>
               </div>
             </div>

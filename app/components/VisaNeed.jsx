@@ -22,8 +22,8 @@ export default function VisaNeed() {
               </figure>
               <h4 className="fw-bold">Phone Call</h4>
               <p>Speak directly with our experts</p>
-              <a href="tel:+971564387701" className="btn btn-light w-100">
-                Call +971564387701
+              <a href="tel:+917840054757" className="btn btn-light w-100">
+                Call +917840054757
               </a>
             </div>
           </div>
@@ -34,7 +34,7 @@ export default function VisaNeed() {
               </figure>
               <h4 className="fw-bold">Email Support</h4>
               <p>Detailed queries via email</p>
-              <a href="mailto:hi@test.com" className="btn btn-light w-100">
+              <a href="mailto:shineasiaglobal@gmail.com" className="btn btn-light w-100">
                 Send Email
               </a>
             </div>
@@ -46,7 +46,7 @@ export default function VisaNeed() {
               </figure>
               <h4 className="fw-bold">Live Support</h4>
               <p>24/7 online assistance</p>
-              <a href="tel:+971564387701" className="btn btn-light w-100">
+              <a href="tel:+917840054757" className="btn btn-light w-100">
                 Get Help
               </a>
             </div>

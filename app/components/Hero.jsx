@@ -13,14 +13,6 @@ export default function Hero() {
                 will get in touch with you shortly!
               </p>
             </div>
-            <div className="hero-btn-wrap">
-              <a
-                className="btn btn-primary"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSdnyfJvnPd8sdRiwFPpGfuMGbvzjgq8SsqLF5KwgnM0-1IyGQ/viewform"
-              >
-                Book Now
-              </a>
-            </div>
           </div>
 
           <div className="col-md-6 col-lg-6">
@@ -83,20 +75,8 @@ export default function Hero() {
 
                   <div className="col-sm-12 col-md-12">
                     <select name="package" className="form-select" required>
-                      <option value="">Package Name *</option>
-                      <option value="5 Nights 6 Days Any Date DUBAI Holiday Package">
-                        5 Nights 6 Days Any Date DUBAI Holiday Package
-                      </option>
-                      <option value="3 Nights 4 Days ( without visa ) DUBAI Holiday Any Date Package">
-                        3 Nights 4 Days (without visa) DUBAI Holiday Any Date
-                        Package
-                      </option>
-                      <option value="4 Nights 5 Days DUBAI Holiday Any Date Package">
-                        4 Nights 5 Days DUBAI Holiday Any Date Package
-                      </option>
-                      <option value="3 Nights 4 Days DUBAI Holiday Any Date Package">
-                        3 Nights 4 Days DUBAI Holiday Any Date Package
-                      </option>
+                      <option value="4 Nights 5 Days DUBAI Dream Tour">4 Nights 5 Days DUBAI Dream Tour</option>
+                     
                     </select>
                   </div>
 

@@ -1,5 +1,4 @@
 "use client";
-// import "./responsive.css";
 import "./globals.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import "bootstrap/dist/css/bootstrap.min.css";
