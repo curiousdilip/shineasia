@@ -28,8 +28,12 @@ export default function Reviews() {
                   "Had an amazing experience with shine Asia global  100%satisfied Dessert safari and cruise Worship service was awesome."
                 </p>
                 <hr />
+               <div className="text-center">
+                     <img src="./Daniel-Williams.jpeg" alt="" style={{width:"50px",height:"50px", objectFit:"cover",borderRadius:"50%"}}/>
                 <h5 className="mb-0">Daniel Williams</h5>
+            
                 <small className="text-muted">Canada</small>
+               </div>
               </div>
             </div>
           </div>
@@ -47,8 +51,11 @@ export default function Reviews() {
                   "Had an incredible experience with Shine Asia Global! The Dessert Safari and Cruise were amazing, and the Worship Service was truly uplifting. 100% satisfied!"
                 </p>
                 <hr />
-                <h5 className="mb-0">Jessica Carter</h5>
+            <div className="text-center">
+                   <img src="./jessica.jpg" alt="" style={{width:"50px",height:"50px", objectFit:"cover",borderRadius:"50%"}}/>
+                <h5 className="mb-0">Jessica Penner</h5>
                 <small className="text-muted">USA</small>
+            </div>
               </div>
             </div>
           </div>
@@ -64,11 +71,14 @@ export default function Reviews() {
                   <i className="bi bi-star-fill text-primary"></i>
                 </div>
                 <p className="fst-italic">
-                  "I had a very good time with shine global network at Dubai tour and Conference . I have to thank to all the team bacause it was an amazing experience.  tour was awesome experience with different countries and  wonderful life changing experience with God's  people at  conference ."
+                  "I had a very good time with shine global network at Dubai tour and Conference . I have to thank to all the team bacause it was an amazing experience."
                 </p>
                 <hr />
+             <div className="text-center">
+                  <img src="./Apostle-Barry-Maracle.jpeg" alt="" style={{width:"50px",height:"50px", objectFit:"cover",borderRadius:"50%"}}/>
                 <h5 className="mb-0">Apostle Barry Maracle</h5>
                 <small className="text-muted">Canada</small>
+             </div>
               </div>
             </div>
           </div>
@@ -86,8 +96,11 @@ export default function Reviews() {
                   "This tour was very well run. It was our first time to Dubai and we felt very safe and taken care of. Thank you so much for a great tour to the Dubai with blessed conference."
                 </p>
                 <hr />
+             <div className="text-center">
+                  <img src="./Jolene-Marek.jpeg" alt="" style={{width:"50px",height:"50px", objectFit:"cover",borderRadius:"50%"}}/>
                 <h5 className="mb-0">Jolene Marek</h5>
                 <small className="text-muted">USA</small>
+             </div>
               </div>
             </div>
           </div>
