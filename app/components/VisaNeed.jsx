@@ -34,7 +34,7 @@ export default function VisaNeed() {
               </figure>
               <h4 className="fw-bold">Email Support</h4>
               <p>Detailed queries via email</p>
-              <a href="mailto:shineasiaglobal@gmail.com" className="btn btn-light w-100">
+              <a href="mailto:shineasiaglobal.com@gmail.com" className="btn btn-light w-100">
                 Send Email
               </a>
             </div>
